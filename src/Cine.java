@@ -1,5 +1,4 @@
 import java.util.Random;
-
 public class Cine {
     private String nombre;
     private int numAsientos;
